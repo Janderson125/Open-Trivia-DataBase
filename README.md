@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Open-Trivia-DataBase
+With all of the things you've learned this past week, we are going to create a mini quiz application.  In order to achieve this, we will need a bank of questions with answers to pull from.  That will be provided by the Open Trivia Database API found here:
+>>>>>>> 09e5cf716e071b5303db5cf0da713fc1126de578
